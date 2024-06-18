@@ -15,8 +15,8 @@ This repository contains three distinct machine learning projects focused on dif
      - `Fminst.ipynb`: Notebook containing the implementation.
      - `my_default_xgc_model.pkl`: Pre-trained XGBoost model.
 
-3. **Pandas Drawing Analysis**
-   - **Description**: A project to analyze hand-drawn pandas using various computational geometry techniques, with no use of learning algorithms from external libraries.
+3. **Handwritten Algorithms For Drawing Analysis**
+   - **Description**: A project to analyze hand-drawn sketches using various computational geometry techniques, with no use of learning algorithms from external libraries.
    - **Files**:
-     - `Pandas Drawing.ipynb`: Notebook containing the implementation.
+     - `Drawing.ipynb`: Notebook containing the implementation.
      - `train.rar`: Compressed file containing the dataset.
